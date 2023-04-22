@@ -1,2 +1,2 @@
 require("thejosh")
-print("hello")
+print("Welcome to NEOVIM")
