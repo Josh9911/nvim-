@@ -6,6 +6,12 @@ lsp.ensure_installed({
   'tsserver',
   'rust_analyzer',
   'pyright',
+  'html',
+  'grammarly',
+  'yamlls',
+  'sqlls',
+  'jsonls',
+  'dockerls',
 })
 
 local cmp = require('cmp')
